@@ -160,15 +160,7 @@ A survey of students, faculty, canteen staff, and visitors (questionnaires + int
 | Harinipriya B | 927622BCS033 |
 | Kaviya S | 927622BCS045 |
 
-**Guide:** Mr. V. Rajeshram, Assistant Professor, CSE
+
 **Institution:** Department of Computer Science and Engineering, M. Kumarasamy College of Engineering (Autonomous), Karur - 639 113
 
-## 📄 License
 
-Add a license of your choice (e.g. MIT) before publishing.
-
----
-
-<div align="center">
-Built with ❤️ at M. Kumarasamy College of Engineering
-</div>
